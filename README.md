@@ -79,7 +79,7 @@ The dataset contains time series data on weather conditions and the correspondin
 ## 👩🏻‍💻 Author
 
 **Monica Buitrago**  
-_Doctor in Computer Science – Freelance Data Scientist_  
+_Doctor in Computer Science –  Data Scientist_  
 [LinkedIn](https://www.linkedin.com/in/monicabuitrago/)  
 GitHub: [`monicabuitrago-ai`](https://github.com/monicabuitrago-ai)
 
