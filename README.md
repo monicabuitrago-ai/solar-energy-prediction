@@ -51,4 +51,42 @@ solar-energy-prediction/
 ```
 ````
 
+---
+
+## 📈 Dataset
+
+The dataset contains time series data on weather conditions and the corresponding solar energy production values. Features include:
+
+- Timestamp (Date, Hour)
+- Irradiance (W/m²)
+- Temperature (°C)
+- Humidity (%)
+- Wind speed (m/s)
+- Solar production (kWh)
+
+(📌 Add source or license if public — otherwise specify that it's a simulated dataset.)
+
+---
+
+## 🚀 Future Improvements
+
+- Test LSTM models for time series forecasting.
+- Deploy a Streamlit app for interactive prediction.
+- Integrate real-time weather data via API.
+
+---
+
+## 👩🏻‍💻 Author
+
+**Monica Buitrago**  
+_Doctor in Computer Science – Freelance Data Scientist_  
+[LinkedIn](https://www.linkedin.com/in/monicabuitrago/)  
+GitHub: [`monicabuitrago-ai`](https://github.com/monicabuitrago-ai)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
 
