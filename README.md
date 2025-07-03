@@ -36,5 +36,19 @@ With the increasing integration of renewable energy sources into modern power gr
 ---
 
 ## 🗂 Repository Structure
+````markdown
+```
+solar-energy-prediction/
+│
+├── data/                  # Raw or cleaned datasets
+│   └── solar_weather_data.csv
+│
+├── notebooks/             # Jupyter notebooks
+│   └── analysis_modeling.ipynb
+│
+├── requirements.txt       # List of Python libraries
+├── README.md              # Project description and instructions
+```
+````
 
 
