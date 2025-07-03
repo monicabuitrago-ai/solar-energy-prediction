@@ -5,6 +5,8 @@ Prediction of photovoltaic energy production based on meteorological data.
 
 This project aims to build a predictive model to estimate photovoltaic solar energy production based on meteorological data. The model can support grid operators, energy analysts, or energy startups in managing supply more efficiently and improving forecast accuracy.
 
+https://www.data.gouv.fr/datasets/courbes-de-production-mensuelles-eolien-solaire-complement-de-remuneration/
+
 ---
 
 ## 📌 Context
